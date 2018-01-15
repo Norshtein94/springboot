@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+    <bean id="testDao" class="com.dada.shen.springboot.annotation.TestDaoImpl"/>
+    <bean id="test1Dao" class="com.dada.shen.springboot.annotation.Test1DaoImpl"/>
+    <bean id="test2Dao" class="com.dada.shen.springboot.annotation.Test2DaoImpl"/>
+    <bean id="test3Dao" class="com.dada.shen.springboot.annotation.Test3DaoImpl"/>
+    <bean id="testService" class="com.dada.shen.springboot.annotation.TestServiceImpl"/>
+</beans>
